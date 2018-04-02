@@ -14,6 +14,10 @@ Personal gripes/bugs/wishlist for macOS software.
 
 * I almost always want Finder windows to be an icon view with auto-snap-to-grid and to reflow to window width. Currently not supported.
 
+## Mail
+
+* The number count for Flagged mails is usually inaccurate.
+
 ## Safari
 
-* Via "Manage Website Data" there's often a database that will spntaneously reappear in the list after being removed. (Needs to be deleted via `~/Library/Safari/Databases` )
+* Via "Manage Website Data" there's often a database that will spontaneously reappear in the list after being removed. (Needs to be deleted via `~/Library/Safari/Databases` )
