@@ -18,6 +18,7 @@ Personal gripes/bugs/wishlist for macOS software.
 
 * The number count for Flagged mails is usually inaccurate.
 * The "All Headers" message view is unreadable - changes the header order and the formatting makes it hard to parse.
+* Shared and Public mailfolders keep falsely popping up in the unread count in the Mailboxes sidebar and then dissapearing.
 
 ## Safari
 
