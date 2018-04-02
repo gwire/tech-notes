@@ -17,6 +17,7 @@ Personal gripes/bugs/wishlist for macOS software.
 ## Mail
 
 * The number count for Flagged mails is usually inaccurate.
+* The "All Headers" message view is unreadable - changes the header order and the formatting makes it hard to parse.
 
 ## Safari
 
