@@ -1,8 +1,16 @@
-# iTunes
+# macOS notes
+
+Personal gripes/bugs/wishlist for macOS software.
+
+## App Store
+
+* When the update prompt appears it has the options "now, in an hour, later" but I always want to see what's being updated first. So I choose "in an hour", then manually update, then (an hour later) get an error message about a failed update.
+
+## iTunes
 
 * Podcast library and unplayed views do not display the release dates.
 
-# Finder
+## Finder
 
 * I almost always want Finder windows to be an icon view with auto-snap-to-grid and to reflow to window width. Currently not supported.
 
