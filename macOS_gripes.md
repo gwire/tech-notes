@@ -20,6 +20,10 @@ Personal gripes/bugs/wishlist for macOS software.
 * The "All Headers" message view is unreadable - changes the header order and the formatting makes it hard to parse.
 * Shared and Public mailfolders keep falsely popping up in the unread count in the Mailboxes sidebar and then dissapearing.
 
+## Numbers
+
+* Cannot open ODS files.
+
 ## Safari
 
 * Via "Manage Website Data" there's often a database that will spontaneously reappear in the list after being removed. (Needs to be deleted via `~/Library/Safari/Databases` )
