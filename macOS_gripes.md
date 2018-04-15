@@ -14,7 +14,7 @@ Personal gripes/bugs/wishlist for macOS software.
 
 * I almost always want Finder windows to be an icon view with auto-snap-to-grid and to reflow to window width. Currently not supported.
 
-## LanchPad
+## Lanchpad
 
 * Ordering of items will randomly change after updates, and sometimes after reboots.
 
